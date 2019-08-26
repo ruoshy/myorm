@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    username: SaltedFish
+    password: asd456
+    url: jdbc:mysql://localhost/SaltedFish?useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghaio?useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai
